@@ -1,4 +1,4 @@
-# 🛍️ Intelligent Departmental Store Search & BFS/DFS Comparison
+#  Intelligent Search & BFS/DFS Comparison
 
 A Streamlit web application that simulates a departmental store's product hierarchy and compares the performance of Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms for finding products.
 
